@@ -10,5 +10,5 @@ using Mono.Addins.Description;
 
 [assembly: AddinName("FastGuid")]
 [assembly: AddinCategory("IDE extensions")]
-[assembly: AddinDescription("FastGuid")]
+[assembly: AddinDescription("Quickly create new GUIDs through the Search Bar and copy them to your clipboard.")]
 [assembly: AddinAuthor("Matthew Robbins")]
