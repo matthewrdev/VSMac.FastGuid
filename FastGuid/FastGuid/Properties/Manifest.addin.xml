@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+
+    
+  <Extension path="/MonoDevelop/Ide/SearchCategories">
+      <Class id="FastGuid.FastGuidSearchCategory" class="FastGuid.FastGuidSearchCategory" />
+  </Extension>
+
+  <!-- MEF Catalog -->
+  <Extension path="/MonoDevelop/Ide/Composition">
+      <Assembly file="FastGuid.dll" />
+  </Extension>
+  
+</ExtensionModel>
